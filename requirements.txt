@@ -1,0 +1,9 @@
+Flask
+numpy
+Pillow
+tensorflow
+torch
+transformers
+langchain
+langchain-google-genai
+python-dotenv
